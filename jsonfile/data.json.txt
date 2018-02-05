@@ -1,10 +1,1 @@
-{ // Heros
-  "Data": [
-    {
-      "FirstName": "Elvin",
-      "LastName": null,
-      "BirthDate": "2018-02-05T09:01:35.7712526+00:00",
-      "BirthPlace": null
-    }
-  ]
-}
+[{"Id":1,"FirstName":"Elvin ","LastName":"Resadli","BirthDate":"05.02.2018","BirthPlace":"Ismayilli"},{"Id":2,"FirstName":"Qudret ","LastName":"Ezimov","BirthDate":"05.02.2018","BirthPlace":"Baki"},{"Id":3,"FirstName":"Sami","LastName":"Humbetov","BirthDate":"05.02.2018","BirthPlace":"Quba"}]
